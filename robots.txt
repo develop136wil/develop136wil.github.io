@@ -1,2 +1,10 @@
+User-agent: Yeti
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
 User-agent: *
 Allow: /
+
+Sitemap: https://develop136wil.github.io/sitemap.xml
